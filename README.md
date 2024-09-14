@@ -1,5 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-## AIM
+## AIM:
+IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
@@ -10,6 +11,9 @@
 ## PROGRAM
 ## client
 ```
+Name: Sanjith.R
+Reg no: 212223230191
+
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
@@ -31,6 +35,9 @@ while True:
 ```
 ## server
 ```
+Name: Sanjith.R
+Reg no: 212223230191
+
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
