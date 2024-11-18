@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+# Name: Sanjith.R
+# Reg no: 212223230191
 ## AIM:
 IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## ALGORITHM:
@@ -11,9 +13,6 @@ IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## PROGRAM
 ## client
 ```
-Name: Sanjith.R
-Reg no: 212223230191
-
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
@@ -35,9 +34,6 @@ while True:
 ```
 ## server
 ```
-Name: Sanjith.R
-Reg no: 212223230191
-
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
